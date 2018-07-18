@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "244638794549",
+    "firebase_url": "https://klappv-3b8be.firebaseio.com",
+    "project_id": "klappv-3b8be",
+    "storage_bucket": "klappv-3b8be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244638794549:android:09d27c74876504c3",
+        "android_client_info": {
+          "package_name": "com.example.viet.klappv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244638794549-ovnriju4jdk0rqlah6pg3otagm88jcaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viet.klappv",
+            "certificate_hash": "f2252d1fe6ee0a6b6d15688e4e4acbb2ad39efb9"
+          }
+        },
+        {
+          "client_id": "244638794549-44jqtlvii4mii79koq3j46hte2h1ef2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Z9Tid8VDtJXk25cSUcVCWjuzF5yq5Qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244638794549-44jqtlvii4mii79koq3j46hte2h1ef2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
